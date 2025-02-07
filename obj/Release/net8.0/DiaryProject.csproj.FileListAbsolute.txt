@@ -1,0 +1,14 @@
+C:\Users\Hosanna Deen\Documents\DiaryProject\bin\Release\net8.0\DiaryProject.exe
+C:\Users\Hosanna Deen\Documents\DiaryProject\bin\Release\net8.0\DiaryProject.deps.json
+C:\Users\Hosanna Deen\Documents\DiaryProject\bin\Release\net8.0\DiaryProject.runtimeconfig.json
+C:\Users\Hosanna Deen\Documents\DiaryProject\bin\Release\net8.0\DiaryProject.dll
+C:\Users\Hosanna Deen\Documents\DiaryProject\bin\Release\net8.0\DiaryProject.pdb
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.AssemblyInfoInputs.cache
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.AssemblyInfo.cs
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.csproj.CoreCompileInputs.cache
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.dll
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\refint\DiaryProject.dll
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.pdb
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\DiaryProject.genruntimeconfig.cache
+C:\Users\Hosanna Deen\Documents\DiaryProject\obj\Release\net8.0\ref\DiaryProject.dll
